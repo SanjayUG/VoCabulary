@@ -8,11 +8,11 @@
 # Hippo-poto-monstroses-quipedalio-phobia
 - fear of long words.
 
-# Nitpicker 
+# Nit-picker 
 - SomeOne who finds a fault in others
 
-# Semiquincentennial 
+# Semi-quin-centennial 
 - 250th Anniversary
 
-# Connoisseur
+# Conno-isseur
 - knows lot on arts, food, drink, or some other subjects.
