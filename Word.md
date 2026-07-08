@@ -16,3 +16,6 @@
 
 # Conno-isseur
 - knows lot on arts, food, drink, or some other subjects.
+
+# Garrulous 
+- "Excessively Talkative"
