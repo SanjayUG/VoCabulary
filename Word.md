@@ -19,3 +19,6 @@
 
 # Garrulous 
 - "Excessively Talkative"
+
+# Sceptical 
+- Not easily Convinced
