@@ -22,3 +22,6 @@
 
 # Sceptical 
 - Not easily Convinced
+
+# Keen 
+- Showing eagerness
