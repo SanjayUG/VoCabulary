@@ -1,4 +1,4 @@
 # VoCabulary
 
 
-## One day One word One phrase.
+## One day One word.
