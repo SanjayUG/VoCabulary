@@ -25,3 +25,9 @@
 
 # Keen 
 - Showing eagerness
+
+# Ostentatious 
+- Being with a Bad character
+
+# Magnanimous 
+- very generous, Forgiving
