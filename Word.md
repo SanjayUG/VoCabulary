@@ -31,3 +31,12 @@
 
 # Magnanimous 
 - very generous, Forgiving
+
+# Glutton
+- a person who eats too much.
+
+# Perplex
+- Confuse or Bewilder
+
+# Meticulous 
+- extremely careful, Very attentive
