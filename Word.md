@@ -20,13 +20,13 @@
 # Garrulous 
 - "Excessively Talkative"
 
-# Sceptical 
+# Scep-tical 
 - Not easily Convinced
 
 # Keen 
 - Showing eagerness
 
-# Ostentatious 
+# Ost-ent-atious 
 - Being with a Bad character
 
 # Magnanimous 
@@ -40,3 +40,38 @@
 
 # Meticulous 
 - extremely careful, Very attentive
+
+# Ubiquitous 
+- Found Everywhere
+
+# Pragmatic 
+- Practical
+
+# Obsolete 
+- No longer in use,  outdated
+
+# Austere 
+- Simple
+
+# Ephemeral 
+- Temporary
+
+# Tenacious 
+- Not giving up easily
+
+# Belligerent 
+- Aggressive, Ready to fight
+
+# Alleviate 
+- Reduce
+
+# Acrimony 
+- Anger, Harshness
+
+# Laconic 
+- Short and to the point
+
+# Obstinate 
+- Stubborn(Refusing to change one's mind or course of action despite pressure to do so)
+
+
