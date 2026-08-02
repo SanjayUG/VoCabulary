@@ -74,4 +74,18 @@
 # Obstinate 
 - Stubborn(Refusing to change one's mind or course of action despite pressure to do so)
 
+# Impeccable 
+- Perfect
 
+# Recalcitrant 
+- Disobedient
+
+# Untenable 
+- Not acceptable
+
+# Perfunctory 
+- Done without enthusiasm
+
+# Acrimony 
+- Syn: Harshness, bitterness. 
+- Ant: Courtesy, Benevolence
