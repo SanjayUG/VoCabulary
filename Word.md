@@ -89,3 +89,8 @@
 # Acrimony 
 - Syn: Harshness, bitterness. 
 - Ant: Courtesy, Benevolence
+
+# Adhere
+
+- Syn: Comply, observe 
+- Ant: Condemn, disjoin
