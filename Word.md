@@ -91,6 +91,30 @@
 - Ant: Courtesy, Benevolence
 
 # Adhere
-
 - Syn: Comply, observe 
 - Ant: Condemn, disjoin
+
+# Absolve
+- Syn: Pardon, forgive
+- Ant: Compel, Accuse
+
+# Fastidious 
+- Very attentive, Very careful
+
+# Taciturn 
+- Quiet, speaking less
+
+# Abjure 
+- renounce
+
+# Prudent 
+- wise and careful
+
+# Vindicate 
+- To prove that someone was right
+
+# Reticent 
+- Unwilling to speak openly, not willing to speak
+
+# Juxtapose 
+- To place two things side by side to compare or show their differences.
